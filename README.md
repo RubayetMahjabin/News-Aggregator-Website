@@ -50,6 +50,4 @@ Dark Mode
     
 #Run Using Command Prompt
 
-   python manage.py makemigrations
-   python manage.py migrate
    python manage.py runserver
