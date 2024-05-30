@@ -49,6 +49,7 @@ Dark Mode
     pip install django-social-share
     
 #Run Using Command Prompt
+
    python manage.py makemigrations
    python manage.py migrate
    python manage.py runserver
