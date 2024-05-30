@@ -42,4 +42,13 @@ Sharing Articles
 Dark Mode
 1) Users should be able to toggle between light mode and dark mode for the website interface.
 
+#Installation
 
+    pip install bs4
+    pip install requests
+    pip install django-social-share
+    
+#Run Using Command Prompt
+   python manage.py makemigrations
+   python manage.py migrate
+   python manage.py runserver
